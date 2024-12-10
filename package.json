@@ -2,13 +2,13 @@
   "name": "wild-series",
   "version": "0.0.1",
   "description": "",
-  "homepage": "https://github.com/{{ org }}/wild-series#readme",
+  "homepage": "https://github.com/Wild Code School/wild-series#readme",
   "bugs": {
-    "url": "https://github.com/{{ org }}/wild-series/issues"
+    "url": "https://github.com/Wild Code School/wild-series/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/{{ org }}/wild-series.git"
+    "url": "git+https://github.com/Wild Code School/wild-series.git"
   },
   "workspaces": ["client", "server"],
   "scripts": {
@@ -25,7 +25,7 @@
     "test": "npm run test --workspaces --if-present"
   },
   "keywords": [],
-  "author": "{{ org }}",
+  "author": "Wild Code School",
   "license": "MIT",
   "devDependencies": {
     "@biomejs/biome": "1.9.2",

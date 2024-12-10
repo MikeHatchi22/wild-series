@@ -1,4 +1,4 @@
-Copyright (c) 2024 {{ org }}
+Copyright (c) 2024 Wild Code School
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
